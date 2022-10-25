@@ -1,4 +1,4 @@
-# Reproduction Among Classical Hodgkin Lymphoma Survivors Treated with BEACOPP and ABVD
+# Reproduction Among Classical Hodgkin Lymphoma Survivors Treated With BEACOPP and ABVD
 
 ## Introduction
 
